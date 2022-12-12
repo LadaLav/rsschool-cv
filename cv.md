@@ -1,8 +1,11 @@
 # ***SYOMINA LADA***
 
---------------------------------
+
 
 ![photo](https://sun9-east.userapi.com/sun9-25/s/v1/if1/BVvJcF_ZvPHhOAzvL73hyvSzLPKSj04rHh9urGibMyTFJwm1Lk9FTHTGtf47KOZWUsjchDnc.jpg?size=2560x1898&quality=96&type=album)
+
+
+------------------------------------------------
 
 
 ## **CONTACT INFORMATION**
