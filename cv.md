@@ -1,8 +1,6 @@
 # ***SYOMINA LADA***
 
-![](\ЛАДА\инст\photo_2021-11-10_23-12-14.jpg)
-
----------------------------
+![](https://vk.com/photo29863026_456247828?rev=1)
 
 
 ## **CONTACT INFORMATION**
