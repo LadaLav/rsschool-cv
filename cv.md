@@ -1,5 +1,7 @@
 # ***SYOMINA LADA***
 
+![](\ЛАДА\инст\photo_2021-11-10_23-12-14.jpg)
+
 ---------------------------
 
 
@@ -42,7 +44,7 @@ class App {
 
 ## **WORK EXPERIENCE**
 
-+ [**CV:**](https://github.com/LadaLav/rsschool-cv/blob/gh-pages/cv.md) Git, GitHub, Markdown 
++ [**CV:**](https://LadaLav.github.io/rsschool-cv/cv) Git, GitHub, Markdown
 
 ---------------------------------------------
 
