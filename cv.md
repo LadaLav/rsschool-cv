@@ -2,6 +2,7 @@
 
 ---------------------------
 
+
 ## **CONTACT INFORMATION**
 
 + **Email:** claraisnotimpossible@gmail.com
@@ -30,9 +31,30 @@ I don't have development experience yet, but I really want to learn something ne
 ## **CODE EXAMPLE**
 
 ```
-function multiply(a, b){
-  a * b
+class App {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
 }
 ```
 
 -----------------------------
+
+## **WORK EXPERIENCE**
+
++ [**CV:**](https://github.com/LadaLav/rsschool-cv/blob/gh-pages/cv.md) Git, GitHub, Markdown 
+
+---------------------------------------------
+
+## **EDUCATION**
+
++ HTML Academy *(in process)*
++ RS School *(in process)*
+
+---------------------------------------------
+
+## **LANGUAGES**
+
+1. **English:** Pre-Intermediate (CEFR A2+)  
+*according to the test results of the Streamline Language School*
+1. **Russian:** native speaker
